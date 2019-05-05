@@ -1,0 +1,5 @@
+name: DragonProtect
+version: 0.1
+description: A plugin that protects WorldGuard regions unless you have a specified permission
+depend: [WorldGuard]
+main: me.fluxcapacitor.dragonprotect.Main
